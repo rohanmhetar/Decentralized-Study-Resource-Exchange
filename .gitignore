@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules/
+
+# Hardhat cache and artifacts
+cache/
+artifacts/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# MacOS-specific files
+.DS_Store
