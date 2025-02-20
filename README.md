@@ -1,6 +1,3 @@
-Ah, I understand - you want the entire README content wrapped in a Markdown code block. Here it is:
-
-```markdown
 # Decentralized Study Resource Exchange (DSRE)
 
 ## Overview
