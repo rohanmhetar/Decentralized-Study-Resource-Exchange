@@ -16,12 +16,6 @@ This project includes:
 - [Run Local Blockchain](#run-local-blockchain)
 - [Deploy Contracts](#deploy-contracts)
 - [Interact with Contracts](#interact-with-contracts)
-- [Useful Commands](#useful-commands)
-- [Project Structure](#project-structure)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Prerequisites
 Ensure you have the following installed:
