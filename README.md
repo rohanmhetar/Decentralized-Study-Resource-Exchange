@@ -1,7 +1,7 @@
 # Decentralized Study Resource Exchange (DSRE)
 
 ## Overview
-DSRE is a decentralized platform for students to securely share, trade, and collaborate on study resources using blockchain technology. It utilizes Ethereum smart contracts built with Solidity and Hardhat.
+DSRE is a decentralized platform for students to securely share, trade, and collaborate on study resources using blockchain technology. It utilizes Ethereum smart contracts built with Solidity and Hardhat. I built this as a part of Texas Blockchain to make blockchain more accessible for students.
 
 This project includes:
 - **DSREToken:** An ERC-20 token for transactions within the platform
